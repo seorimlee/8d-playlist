@@ -4,19 +4,13 @@
       "slug": "2025-08",
       "title": "2025.08",
       "count": 18,
-      "cover": "/web/upload/covers/pl-2025-08@512.jpg"
+      "cover": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist@main/covers/playlists/2025-08@1080.jpg"
     },
     {
       "slug": "2025-07",
       "title": "2025.07",
       "count": 16,
-      "cover": "/web/upload/covers/pl-2025-07@512.jpg"
-    },
-    {
-      "slug": "2025-06",
-      "title": "2025.06",
-      "count": 20,
-      "cover": "/web/upload/covers/pl-2025-06@512.jpg"
+      "cover": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist@main/covers/playlists/2025-07@1080.jpg"
     }
   ]
 }
