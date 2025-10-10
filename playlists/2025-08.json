@@ -34,8 +34,8 @@
       "url": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist@5aed99704e0eb72be5ad2903bf94afdef5d3aeb2/audio/A%20Winged%20Victory%20for%20the%20Sullen%20-%20Atomos%20I.mp3",
       "duration": 252,
       "cover": {
-        "src": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/A-Winged-Victory-for-the-Sullen-atomosi%40640.jpg",
-        "srcset": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-tuesdays@640.jpg 256w, https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-tuesdays@1080.jpg 512w"
+        "src": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/blob/main/covers/2025-08/A-Winged-Victory-for-the-Sullen-atomosi%401080.jpg",
+        "srcset": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/A-Winged-Victory-for-the-Sullen-atomosi%40640.jpg 256w, https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/blob/main/covers/2025-08/A-Winged-Victory-for-the-Sullen-atomosi%401080.jpg 512w"
       }
     }
   ]
