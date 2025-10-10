@@ -11,7 +11,7 @@
       "duration": 252,
       "cover": {
         "src": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-tuesdays@640.jpg",
-        "srcset": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-tuesdays@640.jpg 256w, https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/playlist/2025-08@1080.jpg 512w"
+        "srcset": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-tuesdays@640.jpg 256w, https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-tuesdays@1080.jpg 512w"
       }
     },
     {
@@ -23,7 +23,7 @@
       "duration": 252,
       "cover": {
         "src": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-handson@640.jpg",
-        "srcset": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-tuesdays@640.jpg 256w, https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/playlist/2025-08@1080.jpg 512w"
+        "srcset": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-handson@640.jpg 256w, https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-handson@1080.jpg 512w"
       }
     },
     {
@@ -35,31 +35,7 @@
       "duration": 252,
       "cover": {
         "src": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/A-Winged-Victory-for-the-Sullen-atomosi%40640.jpg",
-        "srcset": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-tuesdays@640.jpg 256w, https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/playlist/2025-08@1080.jpg 512w"
-      }
-    },
-    {
-      "id": "2025-08-04",
-      "title": "Tuesdays",
-      "artist": "Nils Frahm",
-      "album": "All Melody",
-      "url": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist@e0b6e1073278150f3af63d017d40521ae1e1072b/audio/Nils%20Frahm%20-%20Tuesdays.mp3",
-      "duration": 252,
-      "cover": {
-        "src": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/playlist/2025-08@1080.jpg",
-        "srcset": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-tuesdays@640.jpg 256w, https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/playlist/2025-08@1080.jpg 512w"
-      }
-    },
-    {
-      "id": "2025-08-05",
-      "title": "Tuesdays",
-      "artist": "Nils Frahm",
-      "album": "All Melody",
-      "url": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist@e0b6e1073278150f3af63d017d40521ae1e1072b/audio/Nils%20Frahm%20-%20Tuesdays.mp3",
-      "duration": 252,
-      "cover": {
-        "src": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/playlist/2025-08@1080.jpg",
-        "srcset": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-tuesdays@640.jpg 256w, https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/playlist/2025-08@1080.jpg 512w"
+        "srcset": "https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-tuesdays@640.jpg 256w, https://cdn.jsdelivr.net/gh/seorimlee/8d-playlist/covers/2025-08/nils-frahm-tuesdays@1080.jpg 512w"
       }
     }
   ]
